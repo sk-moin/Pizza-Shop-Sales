@@ -1,0 +1,15 @@
+The Excel file contains a single sheet named "pizza_sales". Here is an overview of the data and the list of columns:
+
+Columns:
+pizza_id - Unique ID for each pizza
+order_id - Unique ID for each order
+pizza_name_id - ID for the pizza name 
+quantity - Quantity of the pizza
+order_date - Date of the pizza order
+order_time - Time of the pizza order
+unit_price - Price of each pizza
+total_price - Total Price of pizza
+pizza_size - Size of the pizza
+pizza_category - Category of the pizza
+pizza_ingredients - Ingredients in the pizza
+pizza_name - Name of the pizza
