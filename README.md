@@ -10,7 +10,9 @@
 
 •	The insights gained from this project can be used to:
 	Optimize staffing during peak hours.
+ 
 	Refine the menu by promoting best-selling items and potentially re-evaluating poor-performing ones.
+ 
 	Develop targeted marketing strategies based on popular pizza categories and sizes.
  
 
